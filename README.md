@@ -4,7 +4,7 @@ A chess engine in 4 KB of Python, built as an entry for the
 [make.fun](https://make.fun) bounty **tiny-chess-01** ("4 KB 以内の Python
 チェスエンジン" — a chess engine in at most 4 KB of Python).
 
-- `main.py` — the submitted entrypoint (4,035 bytes): the readable source,
+- `main.py` — the submitted entrypoint (4,072 bytes): the readable source,
   packed with the competition kit's own `makefun compress` (LZMA stub).
 - `src.py` — the readable source `main.py` was packed from.
 
